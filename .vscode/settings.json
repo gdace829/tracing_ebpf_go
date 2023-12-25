@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "bpf_helpers.h": "c",
+        "common.h": "c",
+        "execsnoop.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
